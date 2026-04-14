@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KLBR4")(type "KiCad")(uri "C:/Lib_Kicad/Custom/CRT_Controller.pretty/KLBR4.kicad_sym")(options "")(descr ""))
+)
